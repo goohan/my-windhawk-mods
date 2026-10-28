@@ -11,3 +11,7 @@ The integrated Taskbar Styler implementation in the PR has not yet been loaded i
 - `docklike-center-compact.png`: centered layout with fewer app buttons and a narrower tray.
 
 Captured and supplied by the contributor on October 28, 2026. The original PNGs are published without cropping, retouching, or compositing.
+
+## Theme-only alignment experiment
+
+`docklike-native-center.png` and `docklike-native-left.png` are separate captures of the live taskbar region after the companion mod was disabled and the temporary inspector was unloaded and removed. Alignment is supplied entirely by existing Taskbar Styler style captures. The local setup retains custom cosmetic and tray-aware spacing overrides; the submitted theme update itself focuses only on automatic alignment.
